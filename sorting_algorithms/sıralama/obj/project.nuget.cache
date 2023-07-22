@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mlImTDKFjFTM4v+ybPXWmYc3FMB0h7YdSYyV5PyRMRBKO21K+sjgAa7OppDN7NYtXskbSpYQb/lkzwG2LNk/lQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tolga\\OneDrive\\Masaüstü\\Github\\IU-C\\sıralama\\sıralama\\sıralama.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tolga\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512",
+    "C:\\Users\\tolga\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\tolga\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\tolga\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
